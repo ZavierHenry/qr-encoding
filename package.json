@@ -1,0 +1,14 @@
+{
+  "name": "@zavierhenry/encoding-qr-codes",
+  "main": "d97f03f277b1e1f6@6382.js",
+  "version": "6382.0.0",
+  "homepage": "https://observablehq.com/@zavierhenry/encoding-qr-codes",
+  "author": {
+    "name": "Zavier Henry",
+    "url": "https://observablehq.com/@zavierhenry"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
